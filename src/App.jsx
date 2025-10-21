@@ -42,7 +42,7 @@ export default function App() {
           AI/ML Enthusiast | LLM Developer | Freelancer-in-Progress 🚀
         </p>
         <div className="flex gap-4">
-          <a href="https://github.com/satvik190603" target="_blank" rel="noreferrer"><Github /></a>
+          <a href="https://github.com/Satvikmittal190603" target="_blank" rel="noreferrer"><Github /></a>
           <a href="https://www.linkedin.com/in/satvik-mittal-752550218" target="_blank" rel="noreferrer"><Linkedin /></a>
           <a href="mailto:satvik190603@gmail.com"><Mail /></a>
         </div>
