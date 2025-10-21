@@ -43,7 +43,7 @@ export default function App() {
         </p>
         <div className="flex gap-4">
           <a href="https://github.com/satvik190603" target="_blank" rel="noreferrer"><Github /></a>
-          <a href="https://www.linkedin.com/in/satvik-mittal" target="_blank" rel="noreferrer"><Linkedin /></a>
+          <a href="https://www.linkedin.com/in/satvik-mittal-752550218" target="_blank" rel="noreferrer"><Linkedin /></a>
           <a href="mailto:satvik190603@gmail.com"><Mail /></a>
         </div>
       </section>
